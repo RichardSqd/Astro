@@ -1,0 +1,1812 @@
+
+Program specs:
+
+IMAGE SIZE: 100x100
+
+SAMPLES PER RAY: 256
+
+Data input: astro64.vtk
+
+All print statements are for the ray corresponding to pixel (50,50)
+
+
+R_u: -0.376226, -0, -0.926528
+R_v: -0.334742, 0.932455, 0.135925
+R_x: -0.00201619, -0, -0.00496525
+R_y: -0.00179388, 0.00499701, 0.000728422
+Ray origin = -8.25e+07, -3.45e+07, 3.35e+07
+Ray direction = 0.86204, 0.363785, -0.352933
+Step size is 254902
+Position for sample[0] = -1.7847e+07, -7.21614e+06, 7.03006e+06
+Value at that position is 3.60721
+Position for sample[1] = -1.76272e+07, -7.12341e+06, 6.94009e+06
+Value at that position is 3.90044
+Position for sample[2] = -1.74075e+07, -7.03069e+06, 6.85013e+06
+Value at that position is 4.44126
+Position for sample[3] = -1.71878e+07, -6.93796e+06, 6.76017e+06
+Value at that position is 5.11924
+Position for sample[4] = -1.6968e+07, -6.84522e+06, 6.6702e+06
+Value at that position is 5.9322
+Position for sample[5] = -1.67483e+07, -6.7525e+06, 6.58024e+06
+Value at that position is 6.85629
+Position for sample[6] = -1.65286e+07, -6.65977e+06, 6.49028e+06
+Value at that position is 7.69711
+Position for sample[7] = -1.63088e+07, -6.56704e+06, 6.40031e+06
+Value at that position is 8.40808
+Position for sample[8] = -1.60891e+07, -6.47431e+06, 6.31035e+06
+Value at that position is 8.97659
+Position for sample[9] = -1.58693e+07, -6.38158e+06, 6.22038e+06
+Value at that position is 9.38637
+Position for sample[10] = -1.56496e+07, -6.28885e+06, 6.13042e+06
+Value at that position is 9.46061
+Position for sample[11] = -1.54299e+07, -6.19612e+06, 6.04046e+06
+Value at that position is 9.51116
+Position for sample[12] = -1.52101e+07, -6.10339e+06, 5.9505e+06
+Value at that position is 9.56398
+Position for sample[13] = -1.49904e+07, -6.01066e+06, 5.86053e+06
+Value at that position is 9.6231
+Position for sample[14] = -1.47707e+07, -5.91793e+06, 5.77057e+06
+Value at that position is 9.74317
+Position for sample[15] = -1.45509e+07, -5.8252e+06, 5.68061e+06
+Value at that position is 9.9211
+Position for sample[16] = -1.43312e+07, -5.73247e+06, 5.59064e+06
+Value at that position is 10.1141
+Position for sample[17] = -1.41115e+07, -5.63974e+06, 5.50068e+06
+Value at that position is 10.3215
+Position for sample[18] = -1.38917e+07, -5.54701e+06, 5.41072e+06
+Value at that position is 10.5302
+Position for sample[19] = -1.3672e+07, -5.45428e+06, 5.32075e+06
+Value at that position is 10.6772
+Position for sample[20] = -1.34523e+07, -5.36155e+06, 5.23079e+06
+Value at that position is 10.8
+Position for sample[21] = -1.32325e+07, -5.26882e+06, 5.14083e+06
+Value at that position is 10.9015
+Position for sample[22] = -1.30128e+07, -5.1761e+06, 5.05086e+06
+Value at that position is 10.9859
+Position for sample[23] = -1.27931e+07, -5.08337e+06, 4.9609e+06
+Value at that position is 11.0384
+Position for sample[24] = -1.25733e+07, -4.99064e+06, 4.87094e+06
+Value at that position is 11.0927
+Position for sample[25] = -1.23536e+07, -4.89791e+06, 4.78097e+06
+Value at that position is 11.1559
+Position for sample[26] = -1.21338e+07, -4.80518e+06, 4.69101e+06
+Value at that position is 11.2284
+Position for sample[27] = -1.19141e+07, -4.71245e+06, 4.60105e+06
+Value at that position is 11.3204
+Position for sample[28] = -1.16944e+07, -4.61972e+06, 4.51108e+06
+Value at that position is 11.4257
+Position for sample[29] = -1.14746e+07, -4.52699e+06, 4.42112e+06
+Value at that position is 11.5268
+Position for sample[30] = -1.12549e+07, -4.43426e+06, 4.33116e+06
+Value at that position is 11.623
+Position for sample[31] = -1.10352e+07, -4.34153e+06, 4.2412e+06
+Value at that position is 11.7093
+Position for sample[32] = -1.08154e+07, -4.2488e+06, 4.15123e+06
+Value at that position is 11.7484
+Position for sample[33] = -1.05957e+07, -4.15607e+06, 4.06127e+06
+Value at that position is 11.795
+Position for sample[34] = -1.0376e+07, -4.06334e+06, 3.97131e+06
+Value at that position is 11.8505
+Position for sample[35] = -1.01562e+07, -3.97061e+06, 3.88134e+06
+Value at that position is 11.9161
+Position for sample[36] = -9.93648e+06, -3.87788e+06, 3.79138e+06
+Value at that position is 12.0006
+Position for sample[37] = -9.71675e+06, -3.78515e+06, 3.70141e+06
+Value at that position is 12.0916
+Position for sample[38] = -9.49702e+06, -3.69242e+06, 3.61145e+06
+Value at that position is 12.1805
+Position for sample[39] = -9.27728e+06, -3.59969e+06, 3.52149e+06
+Value at that position is 12.2635
+Position for sample[40] = -9.05754e+06, -3.50696e+06, 3.43153e+06
+Value at that position is 12.3173
+Position for sample[41] = -8.83781e+06, -3.41424e+06, 3.34156e+06
+Value at that position is 12.3089
+Position for sample[42] = -8.61807e+06, -3.32151e+06, 3.2516e+06
+Value at that position is 12.2664
+Position for sample[43] = -8.39834e+06, -3.22878e+06, 3.16164e+06
+Value at that position is 12.1993
+Position for sample[44] = -8.1786e+06, -3.13605e+06, 3.07167e+06
+Value at that position is 12.1164
+Position for sample[45] = -7.95886e+06, -3.04332e+06, 2.98171e+06
+Value at that position is 11.9287
+Position for sample[46] = -7.73913e+06, -2.95059e+06, 2.89175e+06
+Value at that position is 11.7198
+Position for sample[47] = -7.51939e+06, -2.85786e+06, 2.80178e+06
+Value at that position is 11.4951
+Position for sample[48] = -7.29965e+06, -2.76513e+06, 2.71182e+06
+Value at that position is 11.2546
+Position for sample[49] = -7.07992e+06, -2.6724e+06, 2.62186e+06
+Value at that position is 10.9556
+Position for sample[50] = -6.86019e+06, -2.57967e+06, 2.53189e+06
+Value at that position is 10.6144
+Position for sample[51] = -6.64045e+06, -2.48694e+06, 2.44193e+06
+Value at that position is 10.2645
+Position for sample[52] = -6.42071e+06, -2.39421e+06, 2.35197e+06
+Value at that position is 9.9162
+Position for sample[53] = -6.20097e+06, -2.30148e+06, 2.262e+06
+Value at that position is 9.5909
+Position for sample[54] = -5.98124e+06, -2.20875e+06, 2.17204e+06
+Value at that position is 9.2895
+Position for sample[55] = -5.76150e+06, -2.11602e+06, 2.08208e+06
+Value at that position is 8.98425
+Position for sample[56] = -5.54177e+06, -2.02329e+06, 1.99211e+06
+Value at that position is 8.67537
+Position for sample[57] = -5.32204e+06, -1.93057e+06, 1.90215e+06
+Value at that position is 8.36307
+Position for sample[58] = -5.1023e+06, -1.83784e+06, 1.81219e+06
+Value at that position is 8.08366
+Position for sample[59] = -4.88256e+06, -1.74511e+06, 1.72223e+06
+Value at that position is 7.81299
+Position for sample[60] = -4.66282e+06, -1.65238e+06, 1.63226e+06
+Value at that position is 7.54357
+Position for sample[61] = -4.44309e+06, -1.55965e+06, 1.5423e+06
+Value at that position is 7.27502
+Position for sample[62] = -4.22336e+06, -1.46692e+06, 1.45234e+06
+Value at that position is 7.0208
+Position for sample[63] = -4.00362e+06, -1.37419e+06, 1.36237e+06
+Value at that position is 6.8082
+Position for sample[64] = -3.78388e+06, -1.28146e+06, 1.27241e+06
+Value at that position is 6.59954
+Position for sample[65] = -3.56415e+06, -1.18873e+06, 1.18245e+06
+Value at that position is 6.38754
+Position for sample[66] = -3.34441e+06, -1.096e+06, 1.09248e+06
+Value at that position is 6.17091
+Position for sample[67] = -3.12468e+06, -1.00327e+06, 1.00252e+06
+Value at that position is 5.93913
+Position for sample[68] = -2.90494e+06, -910542, 912558
+Value at that position is 5.69938
+Position for sample[69] = -2.68521e+06, -817812, 822594
+Value at that position is 5.45237
+Position for sample[70] = -2.46547e+06, -725082, 732630
+Value at that position is 5.19881
+Position for sample[71] = -2.24573e+06, -632352, 642666
+Value at that position is 5.02978
+Position for sample[72] = -2.02599e+06, -539622, 552702
+Value at that position is 4.91278
+Position for sample[73] = -1.80626e+06, -446894, 462741
+Value at that position is 4.82403
+Position for sample[74] = -1.58653e+06, -354164, 372777
+Value at that position is 4.76472
+Position for sample[75] = -1.36679e+06, -261434, 282814
+Value at that position is 4.53174
+Position for sample[76] = -1.14706e+06, -168707, 192852
+Value at that position is 3.95954
+Position for sample[77] = -927321, -75976.4, 102888
+Value at that position is 3.38747
+Position for sample[78] = -707583, 16753.8, 12924.5
+Value at that position is 2.81557
+Position for sample[79] = -487845, 109484, -77039.4
+Value at that position is 2.24387
+Position for sample[80] = -268108, 202214, -167003
+Value at that position is 2.22531
+Position for sample[81] = -48377.3, 294941, -256964
+Value at that position is 2.22626
+Position for sample[82] = 171360, 387672, -346928
+Value at that position is 2.22736
+Position for sample[83] = 391098, 480402, -436892
+Value at that position is 2.22858
+Position for sample[84] = 610828, 573129, -526853
+Value at that position is 2.87277
+Position for sample[85] = 830566, 665859, -616817
+Value at that position is 3.63925
+Position for sample[86] = 1.0503e+06, 758590, -706781
+Value at that position is 4.20491
+Position for sample[87] = 1.27004e+06, 851320, -796745
+Value at that position is 4.60099
+Position for sample[88] = 1.48978e+06, 944050, -886709
+Value at that position is 4.83937
+Position for sample[89] = 1.70951e+06, 1.03678e+06, -976670
+Value at that position is 4.97394
+Position for sample[90] = 1.92925e+06, 1.12951e+06, -1.06663e+06
+Value at that position is 5.12534
+Position for sample[91] = 2.14898e+06, 1.22224e+06, -1.1566e+06
+Value at that position is 5.29261
+Position for sample[92] = 2.36872e+06, 1.31496e+06, -1.24656e+06
+Value at that position is 5.4748
+Position for sample[93] = 2.58845e+06, 1.4077e+06, -1.33652e+06
+Value at that position is 5.70012
+Position for sample[94] = 2.80819e+06, 1.50043e+06, -1.42649e+06
+Value at that position is 5.93528
+Position for sample[95] = 3.02793e+06, 1.59316e+06, -1.51645e+06
+Value at that position is 6.18023
+Position for sample[96] = 3.24766e+06, 1.68589e+06, -1.60642e+06
+Value at that position is 6.41597
+Position for sample[97] = 3.4674e+06, 1.77861e+06, -1.69638e+06
+Value at that position is 6.64979
+Position for sample[98] = 3.68713e+06, 1.87134e+06, -1.78634e+06
+Value at that position is 6.88927
+Position for sample[99] = 3.90687e+06, 1.96407e+06, -1.8763e+06
+Value at that position is 7.12699
+Position for sample[100] = 4.1266e+06, 2.0568e+06, -1.96626e+06
+Value at that position is 7.36322
+Position for sample[101] = 4.34634e+06, 2.14953e+06, -2.05623e+06
+Value at that position is 7.60232
+Position for sample[102] = 4.56608e+06, 2.24226e+06, -2.14619e+06
+Value at that position is 7.87575
+Position for sample[103] = 4.78581e+06, 2.33499e+06, -2.23616e+06
+Value at that position is 8.14952
+Position for sample[104] = 5.00555e+06, 2.42772e+06, -2.32612e+06
+Value at that position is 8.42699
+Position for sample[105] = 5.22528e+06, 2.52045e+06, -2.41608e+06
+Value at that position is 8.71099
+Position for sample[106] = 5.44502e+06, 2.61318e+06, -2.50605e+06
+Value at that position is 8.99926
+Position for sample[107] = 5.66476e+06, 2.70591e+06, -2.59601e+06
+Value at that position is 9.29534
+Position for sample[108] = 5.88449e+06, 2.79864e+06, -2.68597e+06
+Value at that position is 9.59978
+Position for sample[109] = 6.10423e+06, 2.89137e+06, -2.77593e+06
+Value at that position is 9.91372
+Position for sample[110] = 6.32396e+06, 2.9841e+06, -2.8659e+06
+Value at that position is 10.2551
+Position for sample[111] = 6.54369e+06, 3.07682e+06, -2.95586e+06
+Value at that position is 10.6186
+Position for sample[112] = 6.76343e+06, 3.16955e+06, -3.04582e+06
+Value at that position is 10.9642
+Position for sample[113] = 6.98317e+06, 3.26228e+06, -3.13579e+06
+Value at that position is 11.29
+Position for sample[114] = 7.20291e+06, 3.35501e+06, -3.22575e+06
+Value at that position is 11.5943
+Position for sample[115] = 7.42264e+06, 3.44774e+06, -3.31572e+06
+Value at that position is 11.6818
+Position for sample[116] = 7.64237e+06, 3.54047e+06, -3.40568e+06
+Value at that position is 11.754
+Position for sample[117] = 7.86211e+06, 3.6332e+06, -3.49564e+06
+Value at that position is 11.8299
+Position for sample[118] = 8.08185e+06, 3.72593e+06, -3.5856e+06
+Value at that position is 11.9179
+Position for sample[119] = 8.30158e+06, 3.81866e+06, -3.67557e+06
+Value at that position is 12.0118
+Position for sample[120] = 8.52132e+06, 3.91139e+06, -3.76553e+06
+Value at that position is 12.0832
+Position for sample[121] = 8.74106e+06, 4.00412e+06, -3.85549e+06
+Value at that position is 12.1269
+Position for sample[122] = 8.96079e+06, 4.09685e+06, -3.94546e+06
+Value at that position is 12.1418
+Position for sample[123] = 9.18053e+06, 4.18958e+06, -4.03542e+06
+Value at that position is 12.1087
+Position for sample[124] = 9.40026e+06, 4.28231e+06, -4.12538e+06
+Value at that position is 12.0241
+Position for sample[125] = 9.62e+06, 4.37504e+06, -4.21535e+06
+Value at that position is 11.9784
+Position for sample[126] = 9.83974e+06, 4.46777e+06, -4.30531e+06
+Value at that position is 12.0053
+Position for sample[127] = 1.00595e+07, 4.5605e+06, -4.39527e+06
+Value at that position is 12.1312
+Position for sample[128] = 1.02792e+07, 4.65323e+06, -4.48524e+06
+Value at that position is 12.3995
+Position for sample[129] = 1.04989e+07, 4.74596e+06, -4.5752e+06
+Value at that position is 12.6568
+Position for sample[130] = 1.07187e+07, 4.83869e+06, -4.66516e+06
+Value at that position is 12.8857
+Position for sample[131] = 1.09384e+07, 4.93142e+06, -4.75513e+06
+Value at that position is 13.0841
+Position for sample[132] = 1.11581e+07, 5.02414e+06, -4.84509e+06
+Value at that position is 13.1742
+Position for sample[133] = 1.13779e+07, 5.11687e+06, -4.93505e+06
+Value at that position is 13.17
+Position for sample[134] = 1.15976e+07, 5.2096e+06, -5.02502e+06
+Value at that position is 13.1528
+Position for sample[135] = 1.18174e+07, 5.30233e+06, -5.11498e+06
+Value at that position is 13.1159
+Position for sample[136] = 1.20371e+07, 5.39506e+06, -5.20494e+06
+Value at that position is 13.0745
+Position for sample[137] = 1.22568e+07, 5.48779e+06, -5.29490e+06
+Value at that position is 13.203
+Position for sample[138] = 1.24766e+07, 5.58052e+06, -5.38487e+06
+Value at that position is 13.3145
+Position for sample[139] = 1.26963e+07, 5.67325e+06, -5.47483e+06
+Value at that position is 13.3971
+Position for sample[140] = 1.2916e+07, 5.76598e+06, -5.56479e+06
+Value at that position is 13.4567
+Position for sample[141] = 1.31358e+07, 5.85871e+06, -5.65476e+06
+Value at that position is 13.5352
+Position for sample[142] = 1.33555e+07, 5.95144e+06, -5.74472e+06
+Value at that position is 13.6192
+Position for sample[143] = 1.35752e+07, 6.04417e+06, -5.83468e+06
+Value at that position is 13.6979
+Position for sample[144] = 1.3795e+07, 6.1369e+06, -5.92465e+06
+Value at that position is 13.7711
+Position for sample[145] = 1.40147e+07, 6.22963e+06, -6.01461e+06
+Value at that position is 13.8085
+Position for sample[146] = 1.42344e+07, 6.32235e+06, -6.10457e+06
+Value at that position is 13.7821
+Position for sample[147] = 1.44542e+07, 6.41509e+06, -6.19454e+06
+Value at that position is 13.7501
+Position for sample[148] = 1.46739e+07, 6.50782e+06, -6.2845e+06
+Value at that position is 13.6966
+Position for sample[149] = 1.48937e+07, 6.60054e+06, -6.37446e+06
+Value at that position is 13.6086
+Position for sample[150] = 1.51134e+07, 6.69328e+06, -6.46443e+06
+Value at that position is 13.251
+Position for sample[151] = 1.53331e+07, 6.786e+06, -6.55439e+06
+Value at that position is 12.9007
+Position for sample[152] = 1.55529e+07, 6.87873e+06, -6.64435e+06
+Value at that position is 12.5541
+Position for sample[153] = 1.57726e+07, 6.97146e+06, -6.73432e+06
+Value at that position is 12.2104
+Position for sample[154] = 1.59923e+07, 7.06419e+06, -6.82428e+06
+Value at that position is 11.8897
+Position for sample[155] = 1.62121e+07, 7.15692e+06, -6.91424e+06
+Value at that position is 11.6073
+Position for sample[156] = 1.64318e+07, 7.24965e+06, -7.00421e+06
+Value at that position is 11.3436
+Position for sample[157] = 1.66515e+07, 7.34238e+06, -7.09417e+06
+Value at that position is 11.1182
+Position for sample[158] = 1.68713e+07, 7.43511e+06, -7.18413e+06
+Value at that position is 10.9152
+Position for sample[159] = 1.7091e+07, 7.52784e+06, -7.27409e+06
+Value at that position is 10.532
+Position for sample[160] = 1.73108e+07, 7.62057e+06, -7.36406e+06
+Value at that position is 9.9941
+Position for sample[161] = 1.75305e+07, 7.7133e+06, -7.45402e+06
+Value at that position is 9.31363
+Position for sample[162] = 1.77502e+07, 7.80603e+06, -7.54398e+06
+Value at that position is 8.5017
+Position for sample[163] = 1.797e+07, 7.89876e+06, -7.63395e+06
+Value at that position is 7.43453
+Position for sample[164] = 1.81897e+07, 7.99149e+06, -7.72391e+06
+Value at that position is 6.40135
+Position for sample[165] = 1.84094e+07, 8.08422e+06, -7.81388e+06
+Value at that position is 5.43026
+Position for sample[166] = 1.86292e+07, 8.17695e+06, -7.90384e+06
+Value at that position is 4.52645
+Position for sample[167] = 1.88489e+07, 8.26967e+06, -7.9938e+06
+Value at that position is 3.99658
+Position for sample[168] = 1.90686e+07, 8.3624e+06, -8.08376e+06
+Value at that position is 3.7944
+Position for sample[169] = 1.92884e+07, 8.45513e+06, -8.17373e+06
+Value at that position is 3.65643
+Position for sample[170] = 1.95081e+07, 8.54786e+06, -8.26369e+06
+Value at that position is 3.58095
+Position for sample[171] = 1.97278e+07, 8.64059e+06, -8.35365e+06
+Value at that position is 3.542
+Position for sample[172] = 1.99476e+07, 8.73332e+06, -8.44362e+06
+Value at that position is 3.5446
+Position for sample[173] = 2.01673e+07, 8.82605e+06, -8.53358e+06
+Value at that position is 3.54491
+Position for sample[174] = 2.03871e+07, 8.91878e+06, -8.62354e+06
+Value at that position is 3.54343
+Position for sample[175] = 2.06068e+07, 9.01151e+06, -8.71351e+06
+Value at that position is 3.54068
+Position for sample[176] = 2.08265e+07, 9.10424e+06, -8.80347e+06
+Value at that position is 3.53925
+Position for sample[177] = 2.10463e+07, 9.19697e+06, -8.89343e+06
+Value at that position is 3.5383
+Position for sample[178] = 2.1266e+07, 9.2897e+06, -8.9834e+06
+Value at that position is 3.53677
+Position for sample[179] = 2.14857e+07, 9.38243e+06, -9.07336e+06
+Value at that position is 3.53462
+Position for sample[180] = 2.17055e+07, 9.47516e+06, -9.16332e+06
+Value at that position is 3.53292
+Position for sample[181] = 2.19252e+07, 9.56788e+06, -9.25328e+06
+Value at that position is 3.53235
+Position for sample[182] = 2.21449e+07, 9.66062e+06, -9.34325e+06
+Value at that position is 3.53162
+Position for sample[183] = 2.23647e+07, 9.75334e+06, -9.43321e+06
+Value at that position is 3.53069
+Position for sample[184] = 2.25844e+07, 9.84608e+06, -9.52318e+06
+Value at that position is 3.52954
+Position for sample[185] = 2.28041e+07, 9.93881e+06, -9.61314e+06
+Value at that position is 3.52797
+Position for sample[186] = 2.30239e+07, 1.00315e+07, -9.7031e+06
+Value at that position is 3.52638
+Position for sample[187] = 2.32436e+07, 1.01243e+07, -9.79306e+06
+Value at that position is 3.52472
+Position for sample[188] = 2.34634e+07, 1.0217e+07, -9.88303e+06
+Value at that position is 3.52291
+Position for sample[189] = 2.36831e+07, 1.03097e+07, -9.97299e+06
+Value at that position is 3.52098
+Position for sample[190] = 2.39028e+07, 1.04025e+07, -1.0063e+07
+Value at that position is 3.51923
+Position for sample[191] = 2.41226e+07, 1.04952e+07, -1.01529e+07
+Value at that position is 3.51771
+Position for sample[192] = 2.43423e+07, 1.05879e+07, -1.02429e+07
+Value at that position is 3.51641
+Position for sample[193] = 2.4562e+07, 1.06806e+07, -1.03328e+07
+Value at that position is 3.51537
+Position for sample[194] = 2.47818e+07, 1.07734e+07, -1.04228e+07
+Value at that position is 3.51473
+Position for sample[195] = 2.50015e+07, 1.08661e+07, -1.05128e+07
+Value at that position is 3.51428
+Position for sample[196] = 2.52212e+07, 1.09588e+07, -1.06027e+07
+Value at that position is 3.51408
+Position for sample[197] = 2.5441e+07, 1.10516e+07, -1.06927e+07
+Value at that position is 3.51128
+Position for sample[198] = 2.56607e+07, 1.11443e+07, -1.07827e+07
+Value at that position is 2.69926
+Position for sample[199] = 2.58804e+07, 1.1237e+07, -1.08726e+07
+Value at that position is 1.84672
+Position for sample[200] = 2.61002e+07, 1.13297e+07, -1.09626e+07
+Value at that position is 1.0422
+Position for sample[201] = 2.63199e+07, 1.14225e+07, -1.10526e+07
+Value at that position is 0.305862
+Position for sample[202] = 2.65396e+07, 1.15152e+07, -1.11425e+07
+Value at that position is 0
+Position for sample[203] = 2.67594e+07, 1.16079e+07, -1.12325e+07
+Value at that position is 0
+Position for sample[204] = 2.69791e+07, 1.17007e+07, -1.13224e+07
+Value at that position is 0
+Position for sample[205] = 2.71989e+07, 1.17934e+07, -1.14124e+07
+Value at that position is 0
+Position for sample[206] = 2.74186e+07, 1.18861e+07, -1.15024e+07
+Value at that position is 0
+Position for sample[207] = 2.76383e+07, 1.19789e+07, -1.15923e+07
+Value at that position is 0
+Position for sample[208] = 2.78581e+07, 1.20716e+07, -1.16823e+07
+Value at that position is 0
+Position for sample[209] = 2.80778e+07, 1.21643e+07, -1.17723e+07
+Value at that position is 0
+Position for sample[210] = 2.82975e+07, 1.2257e+07, -1.18622e+07
+Value at that position is 0
+Position for sample[211] = 2.85173e+07, 1.23498e+07, -1.19522e+07
+Value at that position is 0
+Position for sample[212] = 2.8737e+07, 1.24425e+07, -1.20421e+07
+Value at that position is 0
+Position for sample[213] = 2.89567e+07, 1.25352e+07, -1.21321e+07
+Value at that position is 0
+Position for sample[214] = 2.91765e+07, 1.2628e+07, -1.22221e+07
+Value at that position is 0
+Position for sample[215] = 2.93962e+07, 1.27207e+07, -1.2312e+07
+Value at that position is 0
+Position for sample[216] = 2.96159e+07, 1.28134e+07, -1.2402e+07
+Value at that position is 0
+Position for sample[217] = 2.98357e+07, 1.29061e+07, -1.2492e+07
+Value at that position is 0
+Position for sample[218] = 3.00554e+07, 1.29989e+07, -1.25819e+07
+Value at that position is 0
+Position for sample[219] = 3.02752e+07, 1.30916e+07, -1.26719e+07
+Value at that position is 0
+Position for sample[220] = 3.04949e+07, 1.31843e+07, -1.27619e+07
+Value at that position is 0
+Position for sample[221] = 3.07146e+07, 1.32771e+07, -1.28518e+07
+Value at that position is 0
+Position for sample[222] = 3.09344e+07, 1.33698e+07, -1.29418e+07
+Value at that position is 0
+Position for sample[223] = 3.11541e+07, 1.34625e+07, -1.30317e+07
+Value at that position is 0
+Position for sample[224] = 3.13738e+07, 1.35553e+07, -1.31217e+07
+Value at that position is 0
+Position for sample[225] = 3.15936e+07, 1.3648e+07, -1.32117e+07
+Value at that position is 0
+Position for sample[226] = 3.18133e+07, 1.37407e+07, -1.33016e+07
+Value at that position is 0
+Position for sample[227] = 3.2033e+07, 1.38334e+07, -1.33916e+07
+Value at that position is 0
+Position for sample[228] = 3.22528e+07, 1.39262e+07, -1.34816e+07
+Value at that position is 0
+Position for sample[229] = 3.24725e+07, 1.40189e+07, -1.35715e+07
+Value at that position is 0
+Position for sample[230] = 3.26923e+07, 1.41116e+07, -1.36615e+07
+Value at that position is 0
+Position for sample[231] = 3.2912e+07, 1.42044e+07, -1.37514e+07
+Value at that position is 0
+Position for sample[232] = 3.31317e+07, 1.42971e+07, -1.38414e+07
+Value at that position is 0
+Position for sample[233] = 3.33515e+07, 1.43898e+07, -1.39314e+07
+Value at that position is 0
+Position for sample[234] = 3.35712e+07, 1.44825e+07, -1.40213e+07
+Value at that position is 0
+Position for sample[235] = 3.37909e+07, 1.45753e+07, -1.41113e+07
+Value at that position is 0
+Position for sample[236] = 3.40107e+07, 1.4668e+07, -1.42013e+07
+Value at that position is 0
+Position for sample[237] = 3.42304e+07, 1.47607e+07, -1.42912e+07
+Value at that position is 0
+Position for sample[238] = 3.44501e+07, 1.48535e+07, -1.43812e+07
+Value at that position is 0
+Position for sample[239] = 3.46699e+07, 1.49462e+07, -1.44712e+07
+Value at that position is 0
+Position for sample[240] = 3.48896e+07, 1.50389e+07, -1.45611e+07
+Value at that position is 0
+Position for sample[241] = 3.51094e+07, 1.51317e+07, -1.46511e+07
+Value at that position is 0
+Position for sample[242] = 3.53291e+07, 1.52244e+07, -1.4741e+07
+Value at that position is 0
+Position for sample[243] = 3.55488e+07, 1.53171e+07, -1.4831e+07
+Value at that position is 0
+Position for sample[244] = 3.57686e+07, 1.54098e+07, -1.4921e+07
+Value at that position is 0
+Position for sample[245] = 3.59883e+07, 1.55026e+07, -1.50109e+07
+Value at that position is 0
+Position for sample[246] = 3.6208e+07, 1.55953e+07, -1.51009e+07
+Value at that position is 0
+Position for sample[247] = 3.64278e+07, 1.5688e+07, -1.51909e+07
+Value at that position is 0
+Position for sample[248] = 3.66475e+07, 1.57808e+07, -1.52808e+07
+Value at that position is 0
+Position for sample[249] = 3.68672e+07, 1.58735e+07, -1.53708e+07
+Value at that position is 0
+Position for sample[250] = 3.7087e+07, 1.59662e+07, -1.54607e+07
+Value at that position is 0
+Position for sample[251] = 3.73067e+07, 1.60589e+07, -1.55507e+07
+Value at that position is 0
+Position for sample[252] = 3.75264e+07, 1.61517e+07, -1.56407e+07
+Value at that position is 0
+Position for sample[253] = 3.77462e+07, 1.62444e+07, -1.57306e+07
+Value at that position is 0
+Position for sample[254] = 3.79659e+07, 1.63371e+07, -1.58206e+07
+Value at that position is 0
+Position for sample[255] = 3.81857e+07, 1.64299e+07, -1.59106e+07
+Value at that position is 0
+Applying transfer function to 3.60721
+Out of range: no valid bin
+Sample[0] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 0, the running values are R:0, G:0, B:0, A:0
+Applying transfer function to 3.90044
+Out of range: no valid bin
+Sample[1] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 1, the running values are R:0, G:0, B:0, A:0
+Applying transfer function to 4.44126
+Out of range: no valid bin
+Sample[2] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 2, the running values are R:0, G:0, B:0, A:0
+Applying transfer function to 5.11924
+Out of range: no valid bin
+Sample[3] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 3, the running values are R:0, G:0, B:0, A:0
+Applying transfer function to 5.9322
+Out of range: no valid bin
+Sample[4] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 4, the running values are R:0, G:0, B:0, A:0
+Applying transfer function to 6.85629
+Out of range: no valid bin
+Sample[5] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 5, the running values are R:0, G:0, B:0, A:0
+Applying transfer function to 7.69711
+Out of range: no valid bin
+Sample[6] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 6, the running values are R:0, G:0, B:0, A:0
+Applying transfer function to 8.40808
+Out of range: no valid bin
+Sample[7] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 7, the running values are R:0, G:0, B:0, A:0
+Applying transfer function to 8.97659
+Out of range: no valid bin
+Sample[8] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 8, the running values are R:0, G:0, B:0, A:0
+Applying transfer function to 9.38637
+Out of range: no valid bin
+Sample[9] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 9, the running values are R:0, G:0, B:0, A:0
+Applying transfer function to 9.46061
+Out of range: no valid bin
+Sample[10] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 10, the running values are R:0, G:0, B:0, A:0
+Applying transfer function to 9.51116
+Out of range: no valid bin
+Sample[11] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 11, the running values are R:0, G:0, B:0, A:0
+Applying transfer function to 9.56398
+Out of range: no valid bin
+Sample[12] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 12, the running values are R:0, G:0, B:0, A:0
+Applying transfer function to 9.6231
+Out of range: no valid bin
+Sample[13] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 13, the running values are R:0, G:0, B:0, A:0
+Applying transfer function to 9.74317
+Out of range: no valid bin
+Sample[14] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 14, the running values are R:0, G:0, B:0, A:0
+Applying transfer function to 9.9211
+Out of range: no valid bin
+Sample[15] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 15, the running values are R:0, G:0, B:0, A:0
+Applying transfer function to 10.1141
+Mapped to bin 5
+Sample[16] was mapped by the transfer function to 61, 61, 201, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 16, the running values are R:0, G:0, B:0, A:0
+Applying transfer function to 10.3215
+Mapped to bin 16
+Sample[17] was mapped by the transfer function to 39, 39, 162, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 17, the running values are R:0, G:0, B:0, A:0
+Applying transfer function to 10.5302
+Mapped to bin 27
+Sample[18] was mapped by the transfer function to 18, 18, 124, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 18, the running values are R:0, G:0, B:0, A:0
+Applying transfer function to 10.6772
+Mapped to bin 34
+Sample[19] was mapped by the transfer function to 4, 4, 99, opacity = 0.00392157
+After opacity correction, opacity is 0.007645
+After compositing sample 19, the running values are R:0.000119922, G:0.000119922, B:0.00296806, A:0.007645
+Applying transfer function to 10.8
+Mapped to bin 40
+Sample[20] was mapped by the transfer function to 0, 24, 107, opacity = 0.0156863
+After opacity correction, opacity is 0.0304082
+After compositing sample 20, the running values are R:0.000119922, G:0.00295999, B:0.01563, A:0.0378207
+Applying transfer function to 10.9015
+Mapped to bin 46
+Sample[21] was mapped by the transfer function to 0, 67, 134, opacity = 0.0392157
+After opacity correction, opacity is 0.0751608
+After compositing sample 21, the running values are R:0.000119922, G:0.0219612, B:0.0536325, A:0.110139
+Applying transfer function to 10.9859
+Mapped to bin 50
+Sample[22] was mapped by the transfer function to 0, 95, 152, opacity = 0.0509804
+After opacity correction, opacity is 0.09715
+After compositing sample 22, the running values are R:0.000119922, G:0.0541681, B:0.105164, A:0.196589
+Applying transfer function to 11.0384
+Mapped to bin 53
+Sample[23] was mapped by the transfer function to 0, 116, 165, opacity = 0.054902
+After opacity correction, opacity is 0.104422
+After compositing sample 23, the running values are R:0.000119922, G:0.0923317, B:0.159448, A:0.280483
+Applying transfer function to 11.0927
+Mapped to bin 55
+Sample[24] was mapped by the transfer function to 0, 130, 174, opacity = 0.054902
+After opacity correction, opacity is 0.104422
+After compositing sample 24, the running values are R:0.000119922, G:0.130635, B:0.210716, A:0.355617
+Applying transfer function to 11.1559
+Mapped to bin 59
+Sample[25] was mapped by the transfer function to 0, 158, 193, opacity = 0.0470588
+After opacity correction, opacity is 0.089849
+After compositing sample 25, the running values are R:0.000119922, G:0.166509, B:0.254536, A:0.413514
+Applying transfer function to 11.2284
+Mapped to bin 62
+Sample[26] was mapped by the transfer function to 0, 179, 206, opacity = 0.0352941
+After opacity correction, opacity is 0.0677737
+After compositing sample 26, the running values are R:0.000119922, G:0.19441, B:0.286646, A:0.453262
+Applying transfer function to 11.3204
+Mapped to bin 67
+Sample[27] was mapped by the transfer function to 0, 215, 229, opacity = 0.0196078
+After opacity correction, opacity is 0.0379386
+After compositing sample 27, the running values are R:0.000119922, G:0.211899, B:0.305274, A:0.474005
+Applying transfer function to 11.4257
+Mapped to bin 72
+Sample[28] was mapped by the transfer function to 0, 250, 251, opacity = 0.0117647
+After opacity correction, opacity is 0.0228491
+After compositing sample 28, the running values are R:0.000119922, G:0.223682, B:0.317104, A:0.486023
+Applying transfer function to 11.5268
+Mapped to bin 78
+Sample[29] was mapped by the transfer function to 0, 236, 218, opacity = 0.0352941
+After opacity correction, opacity is 0.0677737
+After compositing sample 29, the running values are R:0.000119922, G:0.255921, B:0.346884, A:0.520857
+Applying transfer function to 11.623
+Mapped to bin 83
+Sample[30] was mapped by the transfer function to 0, 219, 183, opacity = 0.054902
+After opacity correction, opacity is 0.104422
+After compositing sample 30, the running values are R:0.000119922, G:0.29889, B:0.38279, A:0.57089
+Applying transfer function to 11.7093
+Mapped to bin 87
+Sample[31] was mapped by the transfer function to 0, 205, 155, opacity = 0.0666667
+After opacity correction, opacity is 0.126067
+After compositing sample 31, the running values are R:0.000119922, G:0.34238, B:0.415672, A:0.624987
+Applying transfer function to 11.7484
+Mapped to bin 89
+Sample[32] was mapped by the transfer function to 0, 198, 141, opacity = 0.0666667
+After opacity correction, opacity is 0.126067
+After compositing sample 32, the running values are R:0.000119922, G:0.379089, B:0.441813, A:0.672264
+Applying transfer function to 11.795
+Mapped to bin 91
+Sample[33] was mapped by the transfer function to 0, 191, 127, opacity = 0.0666667
+After opacity correction, opacity is 0.126067
+After compositing sample 33, the running values are R:0.000119922, G:0.410036, B:0.462391, A:0.713581
+Applying transfer function to 11.8505
+Mapped to bin 94
+Sample[34] was mapped by the transfer function to 0, 180, 106, opacity = 0.0627451
+After opacity correction, opacity is 0.118881
+After compositing sample 34, the running values are R:0.000119922, G:0.434071, B:0.476545, A:0.74763
+Applying transfer function to 11.9161
+Mapped to bin 98
+Sample[35] was mapped by the transfer function to 0, 166, 79, opacity = 0.0470588
+After opacity correction, opacity is 0.089849
+After compositing sample 35, the running values are R:0.000119922, G:0.448832, B:0.483569, A:0.770306
+Applying transfer function to 12.0006
+Mapped to bin 102
+Sample[36] was mapped by the transfer function to 0, 152, 51, opacity = 0.027451
+After opacity correction, opacity is 0.0529135
+After compositing sample 36, the running values are R:0.000119922, G:0.456077, B:0.486, A:0.78246
+Applying transfer function to 12.0916
+Mapped to bin 107
+Sample[37] was mapped by the transfer function to 0, 135, 16, opacity = 0.0117647
+After opacity correction, opacity is 0.0228491
+After compositing sample 37, the running values are R:0.000119922, G:0.458708, B:0.486312, A:0.78743
+Applying transfer function to 12.1805
+Mapped to bin 111
+Sample[38] was mapped by the transfer function to 11, 132, 0, opacity = 0.0196078
+After opacity correction, opacity is 0.0379386
+After compositing sample 38, the running values are R:0.000467806, G:0.462883, B:0.486312, A:0.795495
+Applying transfer function to 12.2635
+Mapped to bin 115
+Sample[39] was mapped by the transfer function to 39, 146, 0, opacity = 0.0352941
+After opacity correction, opacity is 0.0677737
+After compositing sample 39, the running values are R:0.00258758, G:0.470819, B:0.486312, A:0.809355
+Applying transfer function to 12.3173
+Mapped to bin 118
+Sample[40] was mapped by the transfer function to 60, 157, 0, opacity = 0.054902
+After opacity correction, opacity is 0.104422
+After compositing sample 40, the running values are R:0.00727173, G:0.483075, B:0.486312, A:0.829262
+Applying transfer function to 12.3089
+Mapped to bin 118
+Sample[41] was mapped by the transfer function to 60, 157, 0, opacity = 0.054902
+After opacity correction, opacity is 0.104422
+After compositing sample 41, the running values are R:0.0114667, G:0.494052, B:0.486312, A:0.847091
+Applying transfer function to 12.2664
+Mapped to bin 116
+Sample[42] was mapped by the transfer function to 46, 150, 0, opacity = 0.0431373
+After opacity correction, opacity is 0.0825192
+After compositing sample 42, the running values are R:0.0137429, G:0.501475, B:0.486312, A:0.859709
+Applying transfer function to 12.1993
+Mapped to bin 112
+Sample[43] was mapped by the transfer function to 18, 136, 0, opacity = 0.0235294
+After opacity correction, opacity is 0.0454404
+After compositing sample 43, the running values are R:0.0141929, G:0.504875, B:0.486312, A:0.866084
+Applying transfer function to 12.1164
+Mapped to bin 108
+Sample[44] was mapped by the transfer function to 0, 131, 9, opacity = 0.0117647
+After opacity correction, opacity is 0.0228491
+After compositing sample 44, the running values are R:0.0141929, G:0.506446, B:0.48642, A:0.869144
+Applying transfer function to 11.9287
+Mapped to bin 98
+Sample[45] was mapped by the transfer function to 0, 166, 79, opacity = 0.0470588
+After opacity correction, opacity is 0.089849
+After compositing sample 45, the running values are R:0.0141929, G:0.5141, B:0.490063, A:0.880901
+Applying transfer function to 11.7198
+Mapped to bin 88
+Sample[46] was mapped by the transfer function to 0, 201, 148, opacity = 0.0666667
+After opacity correction, opacity is 0.126067
+After compositing sample 46, the running values are R:0.0141929, G:0.525935, B:0.498777, A:0.895916
+Applying transfer function to 11.4951
+Mapped to bin 76
+Sample[47] was mapped by the transfer function to 0, 243, 231, opacity = 0.027451
+After opacity correction, opacity is 0.0529135
+After compositing sample 47, the running values are R:0.0141929, G:0.531183, B:0.503766, A:0.901423
+Applying transfer function to 11.2546
+Mapped to bin 64
+Sample[48] was mapped by the transfer function to 0, 193, 215, opacity = 0.027451
+After opacity correction, opacity is 0.0529135
+After compositing sample 48, the running values are R:0.0141929, G:0.535131, B:0.508164, A:0.906639
+Applying transfer function to 10.9556
+Mapped to bin 48
+Sample[49] was mapped by the transfer function to 0, 81, 143, opacity = 0.0470588
+After opacity correction, opacity is 0.089849
+After compositing sample 49, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 10.6144
+Mapped to bin 31
+Sample[50] was mapped by the transfer function to 10, 10, 110, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 50, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 10.2645
+Mapped to bin 13
+Sample[51] was mapped by the transfer function to 45, 45, 173, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 51, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 9.9162
+Out of range: no valid bin
+Sample[52] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 52, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 9.5909
+Out of range: no valid bin
+Sample[53] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 53, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 9.2895
+Out of range: no valid bin
+Sample[54] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 54, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 8.98425
+Out of range: no valid bin
+Sample[55] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 55, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 8.67537
+Out of range: no valid bin
+Sample[56] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 56, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 8.36307
+Out of range: no valid bin
+Sample[57] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 57, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 8.08366
+Out of range: no valid bin
+Sample[58] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 58, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 7.81299
+Out of range: no valid bin
+Sample[59] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 59, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 7.54357
+Out of range: no valid bin
+Sample[60] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 60, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 7.27502
+Out of range: no valid bin
+Sample[61] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 61, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 7.0208
+Out of range: no valid bin
+Sample[62] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 62, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 6.8082
+Out of range: no valid bin
+Sample[63] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 63, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 6.59954
+Out of range: no valid bin
+Sample[64] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 64, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 6.38754
+Out of range: no valid bin
+Sample[65] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 65, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 6.17091
+Out of range: no valid bin
+Sample[66] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 66, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 5.93913
+Out of range: no valid bin
+Sample[67] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 67, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 5.69938
+Out of range: no valid bin
+Sample[68] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 68, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 5.45237
+Out of range: no valid bin
+Sample[69] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 69, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 5.19881
+Out of range: no valid bin
+Sample[70] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 70, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 5.02978
+Out of range: no valid bin
+Sample[71] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 71, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 4.91278
+Out of range: no valid bin
+Sample[72] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 72, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 4.82403
+Out of range: no valid bin
+Sample[73] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 73, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 4.76472
+Out of range: no valid bin
+Sample[74] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 74, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 4.53174
+Out of range: no valid bin
+Sample[75] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 75, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 3.95954
+Out of range: no valid bin
+Sample[76] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 76, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 3.38747
+Out of range: no valid bin
+Sample[77] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 77, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 2.81557
+Out of range: no valid bin
+Sample[78] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 78, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 2.24387
+Out of range: no valid bin
+Sample[79] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 79, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 2.22531
+Out of range: no valid bin
+Sample[80] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 80, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 2.22626
+Out of range: no valid bin
+Sample[81] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 81, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 2.22736
+Out of range: no valid bin
+Sample[82] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 82, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 2.22858
+Out of range: no valid bin
+Sample[83] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 83, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 2.87277
+Out of range: no valid bin
+Sample[84] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 84, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 3.63925
+Out of range: no valid bin
+Sample[85] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 85, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 4.20491
+Out of range: no valid bin
+Sample[86] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 86, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 4.60099
+Out of range: no valid bin
+Sample[87] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 87, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 4.83937
+Out of range: no valid bin
+Sample[88] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 88, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 4.97394
+Out of range: no valid bin
+Sample[89] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 89, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 5.12534
+Out of range: no valid bin
+Sample[90] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 90, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 5.29261
+Out of range: no valid bin
+Sample[91] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 91, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 5.4748
+Out of range: no valid bin
+Sample[92] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 92, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 5.70012
+Out of range: no valid bin
+Sample[93] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 93, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 5.93528
+Out of range: no valid bin
+Sample[94] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 94, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 6.18023
+Out of range: no valid bin
+Sample[95] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 95, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 6.41597
+Out of range: no valid bin
+Sample[96] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 96, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 6.64979
+Out of range: no valid bin
+Sample[97] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 97, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 6.88927
+Out of range: no valid bin
+Sample[98] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 98, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 7.12699
+Out of range: no valid bin
+Sample[99] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 99, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 7.36322
+Out of range: no valid bin
+Sample[100] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 100, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 7.60232
+Out of range: no valid bin
+Sample[101] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 101, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 7.87575
+Out of range: no valid bin
+Sample[102] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 102, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 8.14952
+Out of range: no valid bin
+Sample[103] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 103, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 8.42699
+Out of range: no valid bin
+Sample[104] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 104, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 8.71099
+Out of range: no valid bin
+Sample[105] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 105, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 8.99926
+Out of range: no valid bin
+Sample[106] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 106, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 9.29534
+Out of range: no valid bin
+Sample[107] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 107, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 9.59978
+Out of range: no valid bin
+Sample[108] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 108, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 9.91372
+Out of range: no valid bin
+Sample[109] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 109, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 10.2551
+Mapped to bin 13
+Sample[110] was mapped by the transfer function to 45, 45, 173, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 110, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 10.6186
+Mapped to bin 31
+Sample[111] was mapped by the transfer function to 10, 10, 110, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 111, the running values are R:0.0141929, G:0.537796, B:0.512868, A:0.915028
+Applying transfer function to 10.9642
+Mapped to bin 49
+Sample[112] was mapped by the transfer function to 0, 88, 147, opacity = 0.0509804
+After opacity correction, opacity is 0.09715
+After compositing sample 112, the running values are R:0.0141929, G:0.540645, B:0.517627, A:0.923283
+Applying transfer function to 11.29
+Mapped to bin 66
+Sample[113] was mapped by the transfer function to 0, 207, 224, opacity = 0.0196078
+After opacity correction, opacity is 0.0379386
+After compositing sample 113, the running values are R:0.0141929, G:0.543007, B:0.520183, A:0.926193
+Applying transfer function to 11.5943
+Mapped to bin 81
+Sample[114] was mapped by the transfer function to 0, 225, 197, opacity = 0.0470588
+After opacity correction, opacity is 0.089849
+After compositing sample 114, the running values are R:0.0141929, G:0.548859, B:0.525307, A:0.932825
+Applying transfer function to 11.6818
+Mapped to bin 86
+Sample[115] was mapped by the transfer function to 0, 208, 162, opacity = 0.0666667
+After opacity correction, opacity is 0.126067
+After compositing sample 115, the running values are R:0.0141929, G:0.555766, B:0.530687, A:0.941293
+Applying transfer function to 11.754
+Mapped to bin 89
+Sample[116] was mapped by the transfer function to 0, 198, 141, opacity = 0.0666667
+After opacity correction, opacity is 0.126067
+After compositing sample 116, the running values are R:0.0141929, G:0.561513, B:0.534779, A:0.948694
+Applying transfer function to 11.8299
+Mapped to bin 93
+Sample[117] was mapped by the transfer function to 0, 184, 113, opacity = 0.0627451
+After opacity correction, opacity is 0.118881
+After compositing sample 117, the running values are R:0.0141929, G:0.565914, B:0.537482, A:0.954793
+Applying transfer function to 11.9179
+Mapped to bin 98
+Sample[118] was mapped by the transfer function to 0, 166, 79, opacity = 0.0470588
+After opacity correction, opacity is 0.089849
+After compositing sample 118, the running values are R:0.0141929, G:0.568558, B:0.53874, A:0.958855
+Applying transfer function to 12.0118
+Mapped to bin 103
+Sample[119] was mapped by the transfer function to 0, 149, 44, opacity = 0.0235294
+After opacity correction, opacity is 0.0454404
+After compositing sample 119, the running values are R:0.0141929, G:0.569651, B:0.539063, A:0.960725
+Applying transfer function to 12.0832
+Mapped to bin 106
+Sample[120] was mapped by the transfer function to 0, 138, 23, opacity = 0.0156863
+After opacity correction, opacity is 0.0304082
+After compositing sample 120, the running values are R:0.0141929, G:0.570297, B:0.53917, A:0.961919
+Applying transfer function to 12.1269
+Mapped to bin 108
+Sample[121] was mapped by the transfer function to 0, 131, 9, opacity = 0.0117647
+After opacity correction, opacity is 0.0228491
+After compositing sample 121, the running values are R:0.0141929, G:0.570744, B:0.539201, A:0.962789
+Applying transfer function to 12.1418
+Mapped to bin 109
+Sample[122] was mapped by the transfer function to 0, 128, 2, opacity = 0.0117647
+After opacity correction, opacity is 0.0228491
+After compositing sample 122, the running values are R:0.0141929, G:0.571171, B:0.539208, A:0.96364
+Applying transfer function to 12.1087
+Mapped to bin 107
+Sample[123] was mapped by the transfer function to 0, 135, 16, opacity = 0.0117647
+After opacity correction, opacity is 0.0228491
+After compositing sample 123, the running values are R:0.0141929, G:0.571611, B:0.53926, A:0.96447
+Applying transfer function to 12.0241
+Mapped to bin 103
+Sample[124] was mapped by the transfer function to 0, 149, 44, opacity = 0.0235294
+After opacity correction, opacity is 0.0454404
+After compositing sample 124, the running values are R:0.0141929, G:0.572554, B:0.539539, A:0.966085
+Applying transfer function to 11.9784
+Mapped to bin 101
+Sample[125] was mapped by the transfer function to 0, 156, 58, opacity = 0.0313725
+After opacity correction, opacity is 0.0603579
+After compositing sample 125, the running values are R:0.0141929, G:0.573806, B:0.540004, A:0.968132
+Applying transfer function to 12.0053
+Mapped to bin 102
+Sample[126] was mapped by the transfer function to 0, 152, 51, opacity = 0.027451
+After opacity correction, opacity is 0.0529135
+After compositing sample 126, the running values are R:0.0141929, G:0.574811, B:0.540341, A:0.969818
+Applying transfer function to 12.1312
+Mapped to bin 109
+Sample[127] was mapped by the transfer function to 0, 128, 2, opacity = 0.0117647
+After opacity correction, opacity is 0.0228491
+After compositing sample 127, the running values are R:0.0141929, G:0.575158, B:0.540347, A:0.970508
+Applying transfer function to 12.3995
+Mapped to bin 122
+Sample[128] was mapped by the transfer function to 88, 171, 0, opacity = 0.0862745
+After opacity correction, opacity is 0.161567
+After compositing sample 128, the running values are R:0.0158373, G:0.578353, B:0.540347, A:0.975273
+Applying transfer function to 12.6568
+Mapped to bin 136
+Sample[129] was mapped by the transfer function to 187, 221, 0, opacity = 0.235294
+After opacity correction, opacity is 0.407825
+After compositing sample 129, the running values are R:0.0232325, G:0.587093, B:0.540347, A:0.985357
+Applying transfer function to 12.8857
+Mapped to bin 147
+Sample[130] was mapped by the transfer function to 255, 248, 0, opacity = 0.266667
+After opacity correction, opacity is 0.454347
+After compositing sample 130, the running values are R:0.0298855, G:0.593563, B:0.540347, A:0.99201
+Applying transfer function to 13.0841
+Mapped to bin 157
+Sample[131] was mapped by the transfer function to 255, 205, 0, opacity = 0.184314
+After opacity correction, opacity is 0.328272
+After compositing sample 131, the running values are R:0.0325083, G:0.595672, B:0.540347, A:0.994633
+Applying transfer function to 13.1742
+Mapped to bin 162
+Sample[132] was mapped by the transfer function to 255, 183, 0, opacity = 0.12549
+After opacity correction, opacity is 0.23041
+After compositing sample 132, the running values are R:0.033745, G:0.596559, B:0.540347, A:0.99587
+Applying transfer function to 13.17
+Mapped to bin 162
+Sample[133] was mapped by the transfer function to 255, 183, 0, opacity = 0.12549
+After opacity correction, opacity is 0.23041
+After compositing sample 133, the running values are R:0.0346967, G:0.597242, B:0.540347, A:0.996821
+Applying transfer function to 13.1528
+Mapped to bin 161
+Sample[134] was mapped by the transfer function to 255, 187, 0, opacity = 0.137255
+After opacity correction, opacity is 0.250502
+After compositing sample 134, the running values are R:0.0354929, G:0.597826, B:0.540347, A:0.997618
+Applying transfer function to 13.1159
+Mapped to bin 159
+Sample[135] was mapped by the transfer function to 255, 196, 0, opacity = 0.160784
+After opacity correction, opacity is 0.289906
+After compositing sample 135, the running values are R:0.0361836, G:0.598357, B:0.540347, A:0.998308
+Applying transfer function to 13.0745
+Mapped to bin 157
+Sample[136] was mapped by the transfer function to 255, 205, 0, opacity = 0.184314
+After opacity correction, opacity is 0.328272
+After compositing sample 136, the running values are R:0.036739, G:0.598803, B:0.540347, A:0.998864
+Applying transfer function to 13.203
+Mapped to bin 163
+Sample[137] was mapped by the transfer function to 255, 179, 0, opacity = 0.113725
+After opacity correction, opacity is 0.21006
+After compositing sample 137, the running values are R:0.0369777, G:0.598971, B:0.540347, A:0.999102
+Applying transfer function to 13.3145
+Mapped to bin 169
+Sample[138] was mapped by the transfer function to 255, 152, 0, opacity = 0.0901961
+After opacity correction, opacity is 0.168581
+After compositing sample 138, the running values are R:0.037129, G:0.599061, B:0.540347, A:0.999254
+Applying transfer function to 13.3971
+Mapped to bin 173
+Sample[139] was mapped by the transfer function to 255, 135, 0, opacity = 0.176471
+After opacity correction, opacity is 0.315599
+After compositing sample 139, the running values are R:0.0373646, G:0.599186, B:0.540347, A:0.999489
+Applying transfer function to 13.4567
+Mapped to bin 176
+Sample[140] was mapped by the transfer function to 255, 122, 0, opacity = 0.262745
+After opacity correction, opacity is 0.448633
+After compositing sample 140, the running values are R:0.0375938, G:0.599295, B:0.540347, A:0.999718
+Applying transfer function to 13.5352
+Mapped to bin 181
+Sample[141] was mapped by the transfer function to 255, 100, 0, opacity = 0.454902
+After opacity correction, opacity is 0.694295
+After compositing sample 141, the running values are R:0.0377893, G:0.599372, B:0.540347, A:0.999914
+Applying transfer function to 13.6192
+Mapped to bin 185
+Sample[142] was mapped by the transfer function to 243, 88, 0, opacity = 0.627451
+After opacity correction, opacity is 0.854632
+After compositing sample 142, the running values are R:0.0378594, G:0.599398, B:0.540347, A:0.999987
+Applying transfer function to 13.6979
+Mapped to bin 189
+Sample[143] was mapped by the transfer function to 226, 77, 0, opacity = 0.776471
+After opacity correction, opacity is 0.946399
+After compositing sample 143, the running values are R:0.0378699, G:0.599401, B:0.540347, A:0.999999
+Applying transfer function to 13.7711
+Mapped to bin 193
+Sample[144] was mapped by the transfer function to 210, 67, 0, opacity = 0.866667
+After opacity correction, opacity is 0.980461
+After compositing sample 144, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 13.8085
+Mapped to bin 194
+Sample[145] was mapped by the transfer function to 206, 64, 0, opacity = 0.87451
+After opacity correction, opacity is 0.982643
+After compositing sample 145, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 13.7821
+Mapped to bin 193
+Sample[146] was mapped by the transfer function to 210, 67, 0, opacity = 0.866667
+After opacity correction, opacity is 0.980461
+After compositing sample 146, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 13.7501
+Mapped to bin 192
+Sample[147] was mapped by the transfer function to 214, 69, 0, opacity = 0.85098
+After opacity correction, opacity is 0.97572
+After compositing sample 147, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 13.6966
+Mapped to bin 189
+Sample[148] was mapped by the transfer function to 226, 77, 0, opacity = 0.776471
+After opacity correction, opacity is 0.946399
+After compositing sample 148, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 13.6086
+Mapped to bin 184
+Sample[149] was mapped by the transfer function to 247, 90, 0, opacity = 0.584314
+After opacity correction, opacity is 0.819946
+After compositing sample 149, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 13.251
+Mapped to bin 166
+Sample[150] was mapped by the transfer function to 255, 166, 0, opacity = 0.0862745
+After opacity correction, opacity is 0.161567
+After compositing sample 150, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 12.9007
+Mapped to bin 148
+Sample[151] was mapped by the transfer function to 255, 244, 0, opacity = 0.262745
+After opacity correction, opacity is 0.448633
+After compositing sample 151, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 12.5541
+Mapped to bin 130
+Sample[152] was mapped by the transfer function to 145, 199, 0, opacity = 0.172549
+After opacity correction, opacity is 0.309219
+After compositing sample 152, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 12.2104
+Mapped to bin 113
+Sample[153] was mapped by the transfer function to 25, 139, 0, opacity = 0.027451
+After opacity correction, opacity is 0.0529135
+After compositing sample 153, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 11.8897
+Mapped to bin 96
+Sample[154] was mapped by the transfer function to 0, 173, 93, opacity = 0.054902
+After opacity correction, opacity is 0.104422
+After compositing sample 154, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 11.6073
+Mapped to bin 82
+Sample[155] was mapped by the transfer function to 0, 222, 190, opacity = 0.0509804
+After opacity correction, opacity is 0.09715
+After compositing sample 155, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 11.3436
+Mapped to bin 68
+Sample[156] was mapped by the transfer function to 0, 222, 233, opacity = 0.0156863
+After opacity correction, opacity is 0.0304082
+After compositing sample 156, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 11.1182
+Mapped to bin 57
+Sample[157] was mapped by the transfer function to 0, 144, 184, opacity = 0.054902
+After opacity correction, opacity is 0.104422
+After compositing sample 157, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 10.9152
+Mapped to bin 46
+Sample[158] was mapped by the transfer function to 0, 67, 134, opacity = 0.0392157
+After opacity correction, opacity is 0.0751608
+After compositing sample 158, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 10.532
+Mapped to bin 27
+Sample[159] was mapped by the transfer function to 18, 18, 124, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 159, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 9.9941
+Mapped to bin 0
+Sample[160] was mapped by the transfer function to 71, 71, 219, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 160, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 9.31363
+Out of range: no valid bin
+Sample[161] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 161, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 8.5017
+Out of range: no valid bin
+Sample[162] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 162, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 7.43453
+Out of range: no valid bin
+Sample[163] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 163, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 6.40135
+Out of range: no valid bin
+Sample[164] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 164, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 5.43026
+Out of range: no valid bin
+Sample[165] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 165, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 4.52645
+Out of range: no valid bin
+Sample[166] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 166, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 3.99658
+Out of range: no valid bin
+Sample[167] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 167, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 3.7944
+Out of range: no valid bin
+Sample[168] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 168, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 3.65643
+Out of range: no valid bin
+Sample[169] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 169, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 3.58095
+Out of range: no valid bin
+Sample[170] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 170, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 3.542
+Out of range: no valid bin
+Sample[171] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 171, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 3.5446
+Out of range: no valid bin
+Sample[172] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 172, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 3.54491
+Out of range: no valid bin
+Sample[173] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 173, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 3.54343
+Out of range: no valid bin
+Sample[174] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 174, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 3.54068
+Out of range: no valid bin
+Sample[175] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 175, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 3.53925
+Out of range: no valid bin
+Sample[176] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 176, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 3.5383
+Out of range: no valid bin
+Sample[177] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 177, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 3.53677
+Out of range: no valid bin
+Sample[178] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 178, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 3.53462
+Out of range: no valid bin
+Sample[179] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 179, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 3.53292
+Out of range: no valid bin
+Sample[180] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 180, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 3.53235
+Out of range: no valid bin
+Sample[181] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 181, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 3.53162
+Out of range: no valid bin
+Sample[182] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 182, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 3.53069
+Out of range: no valid bin
+Sample[183] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 183, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 3.52954
+Out of range: no valid bin
+Sample[184] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 184, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 3.52797
+Out of range: no valid bin
+Sample[185] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 185, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 3.52638
+Out of range: no valid bin
+Sample[186] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 186, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 3.52472
+Out of range: no valid bin
+Sample[187] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 187, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 3.52291
+Out of range: no valid bin
+Sample[188] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 188, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 3.52098
+Out of range: no valid bin
+Sample[189] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 189, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 3.51923
+Out of range: no valid bin
+Sample[190] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 190, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 3.51771
+Out of range: no valid bin
+Sample[191] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 191, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 3.51641
+Out of range: no valid bin
+Sample[192] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 192, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 3.51537
+Out of range: no valid bin
+Sample[193] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 193, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 3.51473
+Out of range: no valid bin
+Sample[194] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 194, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 3.51428
+Out of range: no valid bin
+Sample[195] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 195, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 3.51408
+Out of range: no valid bin
+Sample[196] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 196, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 3.51128
+Out of range: no valid bin
+Sample[197] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 197, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 2.69926
+Out of range: no valid bin
+Sample[198] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 198, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 1.84672
+Out of range: no valid bin
+Sample[199] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 199, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 1.0422
+Out of range: no valid bin
+Sample[200] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 200, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0.305862
+Out of range: no valid bin
+Sample[201] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 201, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[202] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 202, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[203] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 203, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[204] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 204, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[205] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 205, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[206] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 206, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[207] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 207, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[208] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 208, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[209] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 209, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[210] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 210, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[211] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 211, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[212] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 212, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[213] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 213, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[214] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 214, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[215] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 215, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[216] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 216, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[217] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 217, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[218] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 218, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[219] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 219, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[220] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 220, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[221] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 221, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[222] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 222, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[223] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 223, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[224] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 224, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[225] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 225, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[226] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 226, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[227] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 227, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[228] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 228, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[229] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 229, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[230] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 230, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[231] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 231, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[232] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 232, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[233] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 233, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[234] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 234, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[235] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 235, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[236] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 236, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[237] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 237, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[238] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 238, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[239] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 239, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[240] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 240, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[241] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 241, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[242] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 242, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[243] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 243, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[244] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 244, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[245] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 245, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[246] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 246, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[247] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 247, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[248] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 248, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[249] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 249, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[250] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 250, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[251] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 251, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[252] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 252, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[253] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 253, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[254] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 254, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Applying transfer function to 0
+Out of range: no valid bin
+Sample[255] was mapped by the transfer function to 0, 0, 0, opacity = 0
+After opacity correction, opacity is 0
+After compositing sample 255, the running values are R:0.0378705, G:0.599401, B:0.540347, A:1
+Final color for pixel is 9, 152, 137
